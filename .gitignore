@@ -1,0 +1,13 @@
+skyee-client/node_modules
+skyee-client/.env
+skyee-client/coverage
+skyee-client/coverage.json
+skyee-client/typechain
+skyee-client/typechain-types
+skyee-contracts
+
+thirdweb/skyee/node_modules
+# Hardhat files
+cache
+artifacts
+
